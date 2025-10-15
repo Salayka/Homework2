@@ -63,6 +63,7 @@ cursory	adjective	rapidly and often superficially performed or produced; hastyda
 dastard	noun	coward
 dearth	noun	an inadequate supply; lack
 decry	verb	to depreciate (as a coin) officially or publicly
+defenestrate    noun    to throw someone out of a window
 delineate	verb	to indicate or represent by drawn or painted lines; to mark the outline of
 demagogue	noun	a leader who makes use of popular prejudices and false claims and promises in order to gain power
 denouement	noun	the final outcome of the main dramatic complication in a literary work
